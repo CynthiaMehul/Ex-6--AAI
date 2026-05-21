@@ -1,4 +1,4 @@
-<H3>ECynthia Mehul</H3>
+<H3>Cynthia Mehul</H3>
 <H3>212223240020.</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
